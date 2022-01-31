@@ -1,5 +1,6 @@
 # K번째수
-https://programmers.co.kr/learn/courses/30/lessons/42748  
+[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42748)  
+[코드 링크](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/K번째수/code.js)
 
 ### 문제 설명
 배열 array의 i번째 숫자부터 j번째 숫자까지 자르고 정렬했을 때, k번째에 있는 수를 구하려 합니다.  
