@@ -1,6 +1,4 @@
-# 제일 작은 수 제거하기
-[문제링크](https://programmers.co.kr/learn/courses/30/lessons/12935)  
-[코드링크](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/제일%20작은%20수%20제거하기/code.js)
+# 제일 작은 수 제거하기[🏷️](https://programmers.co.kr/learn/courses/30/lessons/12935)
 
 ### 문제 설명
 정수를 저장한 배열, arr 에서 가장 작은 수를 제거한 배열을 리턴하는 함수, solution을 완성해주세요.  
@@ -12,7 +10,7 @@
 - 인덱스 i, j에 대해 i ≠ j이면 arr[i] ≠ arr[j] 입니다.
 
 ### 입출력 예
-arr	| return
+arr | return
 ---|---
-[4,3,2,1] |	[4,3,2]
+[4,3,2,1] | [4,3,2]
 [10] | [-1]

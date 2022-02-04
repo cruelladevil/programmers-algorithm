@@ -1,6 +1,4 @@
-# 핸드폰 번호 가리기
-[문제링크](https://programmers.co.kr/learn/courses/30/lessons/12948)  
-[코드링크](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/핸드폰%20번호%20가리기/code.js)
+# 핸드폰 번호 가리기[🏷️](https://programmers.co.kr/learn/courses/30/lessons/12948)
 
 ### 문제 설명
 프로그래머스 모바일은 개인정보 보호를 위해 고지서를 보낼 때 고객들의 전화번호의 일부를 가립니다.  
