@@ -16,3 +16,4 @@ K번째수 | [📄](https://github.com/cruelladevil/programmers-algorithm/blob/m
 LEVEL2 | 문제 | 코드 | 페이지
 :---|:---:|:---:|:---:
 프린터 | [📄](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/프린터) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/프린터/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/42587)
+N개의 최소공배수 | [📄](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/N개의%20최소공배수) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/N개의%20최소공배수/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12953)
