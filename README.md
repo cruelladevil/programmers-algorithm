@@ -13,6 +13,7 @@ K번째수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/m
 핸드폰 번호 가리기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/핸드폰%20번호%20가리기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/핸드폰%20번호%20가리기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12948)
 평균 구하기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/평균%20구하기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/평균%20구하기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12944)
 문자열 다루기 기본 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/문자열%20다루기%20기본) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/문자열%20다루기%20기본/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12918)
+정수 제곱근 판별 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/정수%20제곱근%20판별) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/정수%20제곱근%20판별/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12934)
 
 LEVEL2 | 문제 | 코드 | 페이지
 :---|:---:|:---:|:---:
