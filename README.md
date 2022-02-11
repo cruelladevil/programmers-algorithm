@@ -18,6 +18,7 @@ K번째수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/m
 없는 숫자 더하기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/없는%20숫자%20더하기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/없는%20숫자%20더하기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/86051)
 최대공약수와 최소공배수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/최대공약수와%20최소공배수) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/최대공약수와%20최소공배수/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12940)
 나머지가 1이 되는 수 찾기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/나머지가%201이%20되는%20수%20찾기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/나머지가%201이%20되는%20수%20찾기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/87389)
+문자열 내림차순으로 배치하기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/문자열%20내림차순으로%20배치하기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/문자열%20내림차순으로%20배치하기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12917)
 
 LEVEL2 | 문제 | 코드 | 페이지
 :---|:---:|:---:|:---:
