@@ -20,6 +20,7 @@ K번째수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/m
 나머지가 1이 되는 수 찾기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/나머지가%201이%20되는%20수%20찾기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/나머지가%201이%20되는%20수%20찾기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/87389)
 문자열 내림차순으로 배치하기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/문자열%20내림차순으로%20배치하기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/문자열%20내림차순으로%20배치하기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12917)
 신고 결과 받기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/신고%20결과%20받기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/신고%20결과%20받기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/92334)
+폰켓몬 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/폰켓몬) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/폰켓몬/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/1845)
 
 LEVEL2 | 문제 | 코드 | 페이지
 :---|:---:|:---:|:---:
