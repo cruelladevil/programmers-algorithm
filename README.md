@@ -21,6 +21,7 @@ K번째수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/m
 문자열 내림차순으로 배치하기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/문자열%20내림차순으로%20배치하기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/문자열%20내림차순으로%20배치하기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12917)
 신고 결과 받기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/신고%20결과%20받기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/신고%20결과%20받기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/92334)
 폰켓몬 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/폰켓몬) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/폰켓몬/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/1845)
+두 개 뽑아서 더하기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/두%20개%20뽑아서%20더하기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/두%20개%20뽑아서%20더하기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/68644)
 
 LEVEL2 | 문제 | 코드 | 페이지
 :---|:---:|:---:|:---:
