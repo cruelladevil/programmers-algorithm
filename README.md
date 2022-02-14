@@ -23,6 +23,7 @@ K번째수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/m
 폰켓몬 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/폰켓몬) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/폰켓몬/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/1845)
 두 개 뽑아서 더하기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/두%20개%20뽑아서%20더하기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/두%20개%20뽑아서%20더하기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/68644)
 3진법 뒤집기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/3진법%20뒤집기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/3진법%20뒤집기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/68935)
+모의고사 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/모의고사) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/모의고사/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/42840)
 
 LEVEL2 | 문제 | 코드 | 페이지
 :---|:---:|:---:|:---:
