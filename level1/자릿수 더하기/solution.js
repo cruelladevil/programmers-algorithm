@@ -1,8 +1,5 @@
 function solution(n) {
-  const string = String(n);
-  let sum = 0;
-  for (let i = 0; i < string.length; i++) {
-    sum += parseInt(string.slice(i, i + 1));
-  }
-  return sum;
+  return n.toString()
+    .split('')
+    .reduce((acc, cur) => acc + parseInt(cur), 0);
 }
