@@ -1,7 +1,19 @@
 # 프로그래머스 알고리즘
+
 https://programmers.co.kr/learn/challenges
 
-LEVEL1 | 문제 | 코드 | 페이지
+## 커밋 컨벤션
+
+타입 | 설명
+---|---
+Solve | 알고리즘 해결
+Refactor | 알고리즘 리팩토리
+Docs | 문서 수정
+Rename | 폴더 및 파일 이름 수정
+
+## LEVEL1
+
+제목 | 문제 | 코드 | 페이지
 :---|:---:|:---:|:---:
 K번째수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/K번째수) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/K번째수/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/42748)
 가운데 글자 가져오기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/가운데%20글자%20가져오기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/가운데%20글자%20가져오기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12903)
@@ -29,7 +41,9 @@ K번째수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/m
 콜라츠 추측 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/콜라츠%20추측) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/콜라츠%20추측/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12943)
 두 정수 사이의 합 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/두%20정수%20사이의%20합) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/두%20정수%20사이의%20합/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12912)
 
-LEVEL2 | 문제 | 코드 | 페이지
+## LEVEL2
+
+제목 | 문제 | 코드 | 페이지
 :---|:---:|:---:|:---:
 프린터 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/프린터) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/프린터/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/42587)
 N개의 최소공배수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/N개의%20최소공배수) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/N개의%20최소공배수/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12953)
