@@ -27,6 +27,7 @@ K번째수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/m
 음양 더하기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/음양%20더하기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/음양%20더하기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/76501)
 하샤드 수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/하샤드%20수) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/하샤드%20수/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12947)
 콜라츠 추측 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/콜라츠%20추측) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/콜라츠%20추측/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12943)
+두 정수 사이의 합 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/두%20정수%20사이의%20합) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/두%20정수%20사이의%20합/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12912)
 
 LEVEL2 | 문제 | 코드 | 페이지
 :---|:---:|:---:|:---:
