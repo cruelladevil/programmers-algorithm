@@ -42,6 +42,7 @@ K번째수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/m
 두 정수 사이의 합 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/두%20정수%20사이의%20합) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/두%20정수%20사이의%20합/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12912)
 예산 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/예산) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/예산/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12982)
 자연수 뒤집어 배열로 만들기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/자연수%20뒤집어%20배열로%20만들기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/자연수%20뒤집어%20배열로%20만들기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12932)
+약수의 합 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/약수의%20합) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/약수의%20합/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12928)
 ## LEVEL2
 
 제목 | 문제 | 코드 | 페이지
