@@ -44,6 +44,7 @@ K번째수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/m
 자연수 뒤집어 배열로 만들기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/자연수%20뒤집어%20배열로%20만들기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/자연수%20뒤집어%20배열로%20만들기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12932)
 약수의 합 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/약수의%20합) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/약수의%20합/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12928)
 숫자 문자열과 영단어 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/숫자%20문자열과%20영단어) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/숫자%20문자열과%20영단어/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/81301)
+x만큼 간격이 있는 n개의 숫자 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/x만큼%20간격이%20있는%20n개의%20숫자) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/x만큼%20간격이%20있는%20n개의%20숫자/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12954)
 ## LEVEL2
 
 제목 | 문제 | 코드 | 페이지
