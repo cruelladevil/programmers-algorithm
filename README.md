@@ -46,6 +46,7 @@ K번째수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/m
 숫자 문자열과 영단어 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/숫자%20문자열과%20영단어) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/숫자%20문자열과%20영단어/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/81301)
 x만큼 간격이 있는 n개의 숫자 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/x만큼%20간격이%20있는%20n개의%20숫자) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/x만큼%20간격이%20있는%20n개의%20숫자/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12954)
 내적 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/내적) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/내적/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/70128)
+수박수박수박수박수박수? | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/수박수박수박수박수박수?) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/수박수박수박수박수박수?/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12922)
 ## LEVEL2
 
 제목 | 문제 | 코드 | 페이지
