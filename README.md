@@ -51,7 +51,7 @@ x만큼 간격이 있는 n개의 숫자 | [📄](https://github.com/cruelladevil
 나누어 떨어지는 숫자 배열 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/나누어%20떨어지는%20숫자%20배열) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/나누어%20떨어지는%20숫자%20배열/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12910)
 문자열 내 p와 y의 개수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/문자열%20내%20p와%20y의%20개수) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/문자열%20내%20p와%20y의%20개수/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12916)
 문자열을 정수로 바꾸기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/문자열을%20정수로%20바꾸기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/문자열을%20정수로%20바꾸기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12925)
-
+실패율 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/실패율) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/실패율/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/42889)
 
 ## LEVEL2
 
