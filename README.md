@@ -56,6 +56,7 @@ x만큼 간격이 있는 n개의 숫자 | [📄](https://github.com/cruelladevil
 소수 찾기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/소수%20찾기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/소수%20찾기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12921)
 시저 암호 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/시저%20암호) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/시저%20암호/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12926)
 2016년 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/2016년) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/2016년/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12901)
+체육복 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/체육복) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/체육복/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/42862)
 
 ## LEVEL2
 
