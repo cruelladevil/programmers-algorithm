@@ -60,6 +60,7 @@ x만큼 간격이 있는 n개의 숫자 | [📄](https://github.com/cruelladevil
 완주하지 못한 선수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/완주하지%20못한%20선수) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/완주하지%20못한%20선수/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/42576)
 로또의 최고 순위와 최저 순위 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/로또의%20최고%20순위와%20최저%20순위) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/로또의%20최고%20순위와%20최저%20순위/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/77484)
 신규 아이디 추천 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/신규%20아이디%20추천) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/신규%20아이디%20추천/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/72410)
+소수 만들기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/소수%20만들기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/소수%20만들기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12977)
 
 ## LEVEL2
 
