@@ -8,7 +8,8 @@ https://programmers.co.kr/learn/challenges
 ---|---
 Solve | 알고리즘 해결
 Refactor | 알고리즘 리팩토리
-Docs | 문서 수정
+Fix | 코드 오류 수정
+Docs | 문서 수정 및 작성
 Rename | 폴더 및 파일 이름 수정
 
 ## LEVEL1
