@@ -7,7 +7,7 @@ function solution(s) {
   tupleSetList.sort((a, b) => a.length - b.length);
   tupleSetList.forEach(tupleSet => {
     const el = tupleSet.find(el => !tuple.includes(el));
-    tuple.push(el[0]);
+    tuple.push(el);
   });
   return tuple;
 }
