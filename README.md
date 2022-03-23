@@ -63,6 +63,7 @@ x만큼 간격이 있는 n개의 숫자 | [📄](https://github.com/cruelladevil
 신규 아이디 추천 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/신규%20아이디%20추천) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/신규%20아이디%20추천/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/72410)
 소수 만들기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/소수%20만들기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/소수%20만들기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12977)
 비밀지도 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/비밀지도) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/비밀지도/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/17681)
+키패드 누르기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/키패드%20누르기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/키패드%20누르기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/67256)
 
 ## LEVEL2
 
