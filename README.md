@@ -11,8 +11,11 @@ Refactor | 알고리즘 리팩토리
 Fix | 코드 오류 수정
 Docs | 문서 수정 및 작성
 Rename | 폴더 및 파일 이름 수정
+Feat | 기능 추가
 
 ## LEVEL1
+
+**해결한 문제 수: 52**
 
 제목 | 문제 | 코드 | 페이지
 :---|:---:|:---:|:---:
@@ -39,7 +42,7 @@ x만큼 간격이 있는 n개의 숫자 | [📄](https://github.com/cruelladevil
 서울에서 김서방 찾기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/서울에서%20김서방%20찾기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/서울에서%20김서방%20찾기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12919)
 소수 만들기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/소수%20만들기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/소수%20만들기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12977)
 소수 찾기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/소수%20찾기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/소수%20찾기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12921)
-수박수박수박수박수박수? | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/수박수박수박수박수박수) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/수박수박수박수박수박수/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12922)
+수박수박수박수박수박수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/수박수박수박수박수박수) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/수박수박수박수박수박수/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12922)
 숫자 문자열과 영단어 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/숫자%20문자열과%20영단어) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/숫자%20문자열과%20영단어/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/81301)
 시저 암호 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/시저%20암호) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/시저%20암호/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12926)
 신고 결과 받기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/신고%20결과%20받기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/신고%20결과%20받기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/92334)
@@ -71,6 +74,8 @@ x만큼 간격이 있는 n개의 숫자 | [📄](https://github.com/cruelladevil
 
 ## LEVEL2
 
+**해결한 문제 수: 16**
+
 제목 | 문제 | 코드 | 페이지
 :---|:---:|:---:|:---:
 124 나라의 숫자 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/124%20나라의%20숫자) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/124%20나라의%20숫자/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12899)
@@ -89,3 +94,24 @@ N개의 최소공배수 | [📄](https://github.com/cruelladevil/programmers-alg
 튜플 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/튜플) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/튜플/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/64065)
 프린터 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/프린터) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/프린터/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/42587)
 피보나치 수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/피보나치%20수) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/피보나치%20수/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12945)
+
+## LEVEL3
+
+**해결한 문제 수: 0**
+
+제목 | 문제 | 코드 | 페이지
+:---|:---:|:---:|:---:
+
+## LEVEL4
+
+**해결한 문제 수: 0**
+
+제목 | 문제 | 코드 | 페이지
+:---|:---:|:---:|:---:
+
+## LEVEL5
+
+**해결한 문제 수: 0**
+
+제목 | 문제 | 코드 | 페이지
+:---|:---:|:---:|:---:
