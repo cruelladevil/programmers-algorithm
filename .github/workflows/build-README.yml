@@ -29,7 +29,8 @@ jobs:
     - name: build README.md
       run: npm run build
     - name: update README.md
-      run: git add .
+      run: |
+        git add .
         git config --global user.email "dev.timetravel@gmail.com"
         git config --global user.name "cruelladevil"
         git commit -m "Automatic Update README.md"
