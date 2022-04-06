@@ -74,7 +74,7 @@ x만큼 간격이 있는 n개의 숫자 | [📄](https://github.com/cruelladevil
 
 ## LEVEL2
 
-**해결한 문제 수: 17**
+**해결한 문제 수: 18**
 
 제목 | 문제 | 코드 | 페이지
 :---|:---:|:---:|:---:
@@ -82,7 +82,6 @@ x만큼 간격이 있는 n개의 숫자 | [📄](https://github.com/cruelladevil
 H-Index | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/H-Index) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/H-Index/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/42747)
 JadenCase 문자열 만들기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/JadenCase%20문자열%20만들기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/JadenCase%20문자열%20만들기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12951)
 N개의 최소공배수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/N개의%20최소공배수) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/N개의%20최소공배수/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12953)
-test | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/test) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/test/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/99999)
 가장 큰 수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/가장%20큰%20수) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/가장%20큰%20수/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/42746)
 구명보트 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/구명보트) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/구명보트/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/42885)
 기능개발 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/기능개발) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/기능개발/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/42586)
@@ -92,6 +91,8 @@ test | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/le
 최댓값과 최솟값 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/최댓값과%20최솟값) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/최댓값과%20최솟값/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12939)
 카펫 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/카펫) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/카펫/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/42842)
 타겟 넘버 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/타겟%20넘버) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/타겟%20넘버/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/43165)
+테스트 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/테스트) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/테스트/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/99999)
+테스트1 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/테스트1) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/테스트1/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/99919)
 튜플 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/튜플) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/튜플/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/64065)
 프린터 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/프린터) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/프린터/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/42587)
 피보나치 수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/피보나치%20수) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/피보나치%20수/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12945)
