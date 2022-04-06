@@ -26,7 +26,7 @@ jobs:
     - name: update README.md
       run: |
         git add .
-        git config --global user.email "dev.timetravel@gmail.com"
-        git config --global user.name "cruelladevil"
+        git config user.name github-actions
+        git config user.email github-actions@github.com
         git commit -m "Automatic Update README.md"
         git push
