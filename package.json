@@ -1,0 +1,20 @@
+{
+  "name": "programmers-algorithm",
+  "version": "1.0.0",
+  "description": "https://programmers.co.kr/learn/challenges",
+  "main": "./utils/build.js",
+  "type": "module",
+  "scripts": {
+    "build": "node ./utils/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cruelladevil/programmers-algorithm.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cruelladevil/programmers-algorithm/issues"
+  },
+  "homepage": "https://github.com/cruelladevil/programmers-algorithm#readme"
+}
