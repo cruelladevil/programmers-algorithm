@@ -74,7 +74,7 @@ x만큼 간격이 있는 n개의 숫자 | [📄](https://github.com/cruelladevil
 
 ## LEVEL2
 
-**해결한 문제 수: 18**
+**해결한 문제 수: 16**
 
 제목 | 문제 | 코드 | 페이지
 :---|:---:|:---:|:---:
@@ -91,8 +91,6 @@ N개의 최소공배수 | [📄](https://github.com/cruelladevil/programmers-alg
 최댓값과 최솟값 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/최댓값과%20최솟값) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/최댓값과%20최솟값/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12939)
 카펫 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/카펫) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/카펫/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/42842)
 타겟 넘버 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/타겟%20넘버) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/타겟%20넘버/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/43165)
-테스트 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/테스트) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/테스트/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/99999)
-테스트1 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/테스트1) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/테스트1/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/99919)
 튜플 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/튜플) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/튜플/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/64065)
 프린터 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/프린터) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/프린터/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/42587)
 피보나치 수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/피보나치%20수) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/피보나치%20수/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12945)
