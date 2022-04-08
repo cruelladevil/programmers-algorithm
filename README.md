@@ -15,7 +15,7 @@ Feat | 기능 추가
 
 ## LEVEL1
 
-**해결한 문제 수: 52**
+**해결한 문제 수: 53**
 
 제목 | 문제 | 코드 | 페이지
 :---|:---:|:---:|:---:
@@ -34,6 +34,7 @@ x만큼 간격이 있는 n개의 숫자 | [📄](https://github.com/cruelladevil
 로또의 최고 순위와 최저 순위 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/로또의%20최고%20순위와%20최저%20순위) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/로또의%20최고%20순위와%20최저%20순위/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/77484)
 모의고사 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/모의고사) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/모의고사/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/42840)
 문자열 내 p와 y의 개수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/문자열%20내%20p와%20y의%20개수) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/문자열%20내%20p와%20y의%20개수/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12916)
+문자열 내 마음대로 정렬하기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/문자열%20내%20마음대로%20정렬하기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/문자열%20내%20마음대로%20정렬하기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12915)
 문자열 내림차순으로 배치하기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/문자열%20내림차순으로%20배치하기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/문자열%20내림차순으로%20배치하기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12917)
 문자열 다루기 기본 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/문자열%20다루기%20기본) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/문자열%20다루기%20기본/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12918)
 문자열을 정수로 바꾸기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/문자열을%20정수로%20바꾸기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/문자열을%20정수로%20바꾸기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12925)
