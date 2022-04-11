@@ -15,7 +15,7 @@ Feat | 기능 추가
 
 ## LEVEL1
 
-**해결한 문제 수: 53**
+**해결한 문제 수: 55**
 
 제목 | 문제 | 코드 | 페이지
 :---|:---:|:---:|:---:
@@ -58,8 +58,10 @@ x만큼 간격이 있는 n개의 숫자 | [📄](https://github.com/cruelladevil
 이상한 문자 만들기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/이상한%20문자%20만들기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/이상한%20문자%20만들기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12930)
 자릿수 더하기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/자릿수%20더하기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/자릿수%20더하기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12931)
 자연수 뒤집어 배열로 만들기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/자연수%20뒤집어%20배열로%20만들기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/자연수%20뒤집어%20배열로%20만들기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12932)
+정수 내림차순으로 배치하기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/정수%20내림차순으로%20배치하기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/정수%20내림차순으로%20배치하기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12933)
 정수 제곱근 판별 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/정수%20제곱근%20판별) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/정수%20제곱근%20판별/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12934)
 제일 작은 수 제거하기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/제일%20작은%20수%20제거하기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/제일%20작은%20수%20제거하기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12935)
+직사각형 별찍기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/직사각형%20별찍기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/직사각형%20별찍기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12969)
 짝수와 홀수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/짝수와%20홀수) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/짝수와%20홀수/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12937)
 체육복 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/체육복) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/체육복/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/42862)
 최대공약수와 최소공배수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/최대공약수와%20최소공배수) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/최대공약수와%20최소공배수/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12940)
