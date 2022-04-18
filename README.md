@@ -15,7 +15,7 @@ Feat | 기능 추가
 
 ## LEVEL1
 
-**해결한 문제 수: 52**
+**해결한 문제 수: 55**
 
 제목 | 문제 | 코드 | 페이지
 :---|:---:|:---:|:---:
@@ -34,6 +34,7 @@ x만큼 간격이 있는 n개의 숫자 | [📄](https://github.com/cruelladevil
 로또의 최고 순위와 최저 순위 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/로또의%20최고%20순위와%20최저%20순위) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/로또의%20최고%20순위와%20최저%20순위/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/77484)
 모의고사 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/모의고사) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/모의고사/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/42840)
 문자열 내 p와 y의 개수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/문자열%20내%20p와%20y의%20개수) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/문자열%20내%20p와%20y의%20개수/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12916)
+문자열 내 마음대로 정렬하기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/문자열%20내%20마음대로%20정렬하기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/문자열%20내%20마음대로%20정렬하기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12915)
 문자열 내림차순으로 배치하기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/문자열%20내림차순으로%20배치하기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/문자열%20내림차순으로%20배치하기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12917)
 문자열 다루기 기본 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/문자열%20다루기%20기본) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/문자열%20다루기%20기본/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12918)
 문자열을 정수로 바꾸기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/문자열을%20정수로%20바꾸기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/문자열을%20정수로%20바꾸기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12925)
@@ -57,8 +58,10 @@ x만큼 간격이 있는 n개의 숫자 | [📄](https://github.com/cruelladevil
 이상한 문자 만들기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/이상한%20문자%20만들기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/이상한%20문자%20만들기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12930)
 자릿수 더하기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/자릿수%20더하기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/자릿수%20더하기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12931)
 자연수 뒤집어 배열로 만들기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/자연수%20뒤집어%20배열로%20만들기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/자연수%20뒤집어%20배열로%20만들기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12932)
+정수 내림차순으로 배치하기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/정수%20내림차순으로%20배치하기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/정수%20내림차순으로%20배치하기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12933)
 정수 제곱근 판별 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/정수%20제곱근%20판별) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/정수%20제곱근%20판별/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12934)
 제일 작은 수 제거하기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/제일%20작은%20수%20제거하기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/제일%20작은%20수%20제거하기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12935)
+직사각형 별찍기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/직사각형%20별찍기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/직사각형%20별찍기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12969)
 짝수와 홀수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/짝수와%20홀수) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/짝수와%20홀수/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12937)
 체육복 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/체육복) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/체육복/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/42862)
 최대공약수와 최소공배수 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level1/최대공약수와%20최소공배수) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level1/최대공약수와%20최소공배수/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12940)
@@ -74,7 +77,7 @@ x만큼 간격이 있는 n개의 숫자 | [📄](https://github.com/cruelladevil
 
 ## LEVEL2
 
-**해결한 문제 수: 16**
+**해결한 문제 수: 17**
 
 제목 | 문제 | 코드 | 페이지
 :---|:---:|:---:|:---:
@@ -86,6 +89,7 @@ N개의 최소공배수 | [📄](https://github.com/cruelladevil/programmers-alg
 구명보트 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/구명보트) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/구명보트/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/42885)
 기능개발 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/기능개발) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/기능개발/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/42586)
 멀쩡한 사각형 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/멀쩡한%20사각형) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/멀쩡한%20사각형/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/62048)
+문자열 압축 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/문자열%20압축) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/문자열%20압축/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/60057)
 오픈채팅방 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/오픈채팅방) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/오픈채팅방/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/42888)
 짝지어 제거하기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/짝지어%20제거하기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/짝지어%20제거하기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12973)
 최댓값과 최솟값 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/최댓값과%20최솟값) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/최댓값과%20최솟값/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12939)
