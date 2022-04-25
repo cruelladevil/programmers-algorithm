@@ -1,6 +1,12 @@
 function solution(numbers) {
-  const stringList = numbers.map(String);
-  const sortedList = stringList.sort((a, b) => parseInt(b + a) - parseInt(a + b));
-  const number = sortedList.join('');
-  return number == 0 ? '0' : number;
+  const biggestJoinedNumber = numbers
+    .sort(compareJoinedNumber)
+    .join('');
+  return biggestJoinedNumber == 0 ? '0' : biggestJoinedNumber;
+}
+
+function compareJoinedNumber(a, b) {
+  a = String(a);
+  b = String(b);
+  return Number(b + a) - Number(a + b);
 }
