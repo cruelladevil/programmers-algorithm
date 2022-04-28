@@ -1,15 +1,17 @@
 function solution(n) {
-  const numberList = ['4', '1', '2'];
+  const ternaryObject = { 0: '4', 1: '1', 2: '2' };
+  let tmp = n;
   let answer = '';
 
-  while (n > 0) {
-    const remainder = n % 3;
-    answer = numberList[remainder] + answer;
+  while (tmp > 0) {
+    const remainder = tmp % 3;
+    answer = ternaryObject[remainder] + answer;
     if (remainder === 0) {
-      n = Math.floor((n - 1) / 3);
+      tmp = Math.floor((tmp - 1) / 3);
     } else {
-      n = Math.floor(n / 3);
+      tmp = Math.floor(tmp / 3);
     }
   }
+
   return answer;
 }
