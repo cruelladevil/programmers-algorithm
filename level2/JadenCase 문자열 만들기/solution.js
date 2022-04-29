@@ -1,10 +1,10 @@
 function solution(s) {
-  const wordList = s.split(' ');
-  const JadenCase = wordList
-    .map(word => {
-      const firstUpperCase = word.slice(0, 1).toUpperCase();
-      const restLowerCase = word.slice(1, word.length).toLowerCase();
-      return firstUpperCase + restLowerCase;
+  const JadenCase = s
+    .split(' ')
+    .map((word) => {
+      const firstCharUpperCase = word.slice(0, 1).toUpperCase();
+      const restCharLowerCase = word.slice(1).toLowerCase();
+      return firstCharUpperCase + restCharLowerCase;
     })
     .join(' ');
   return JadenCase;
