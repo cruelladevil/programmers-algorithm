@@ -6,5 +6,5 @@ function solution(w, h) {
 }
 
 function calculateGCD(a, b) {
-  return (a % b) ? calculateGCD(b, a % b) : b;
+  return a % b ? calculateGCD(b, a % b) : b;
 }
