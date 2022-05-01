@@ -1,10 +1,13 @@
 function solution(s) {
-  const lettersList = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"];
-  const numbersList = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
-  let lowerCaseStr = s.toLowerCase();
-  for (let i = 0; i < lettersList.length; i++) {
-    const splitted = lowerCaseStr.split(lettersList[i]);
-    lowerCaseStr = splitted.join(numbersList[i]);
-  }
-  return parseInt(lowerCaseStr);
+  const letterList = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine'];
+  const numberList = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'];
+  let tmp = s;
+
+  letterList.forEach((letter, i) => {
+    const letterRegExp = new RegExp(letter, 'gi');
+    const number = numberList[i];
+    tmp = tmp.replace(letterRegExp, number);
+  });
+
+  return Number(tmp);
 }
