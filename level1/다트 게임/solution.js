@@ -2,31 +2,38 @@ function solution(dartResult) {
   const dartList = dartResult.match(/\d.?\D/g);
   const scoreList = [];
 
-  for (let i = 0; i < dartList.length; i++) {
-    const dart = dartList[i].split(/([SDT])/);
-    const [number, square, prize] = dart;
-    let score = parseInt(number);
-
-    switch (square) {
+  const getScoreBonus = (score, bonus) => {
+    switch (bonus) {
       case 'S':
-        break;
+        return score;
       case 'D':
-        score = Math.pow(score, 2);
-        break;
+        return score ** 2;
       case 'T':
-        score = Math.pow(score, 3);
-        break;
+        return score ** 3;
+      default:
+        return score;
     }
-    switch (prize) {
+  };
+
+  const getScoreOption = (score, option, i) => {
+    switch (option) {
       case '*':
         if (scoreList[i - 1]) scoreList[i - 1] *= 2;
-        score *= 2;
-        break;
+        return score * 2;
       case '#':
-        score *= -1;
-        break;
+        return score * -1;
+      default:
+        return score;
     }
+  };
+
+  dartList.forEach((dart, i) => {
+    const [number, bonus, option] = dart.split(/([SDT])/);
+    let score = Number(number);
+    score = getScoreBonus(score, bonus);
+    score = getScoreOption(score, option, i);
     scoreList.push(score);
-  }
-  return scoreList.reduce((acc, cur) => acc + cur);
+  });
+
+  return scoreList.reduce((total, score) => total + score);
 }
