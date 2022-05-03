@@ -1,11 +1,16 @@
 function solution(strings, n) {
-  return strings.sort((a, b) => {
-    const nthWordA = a[n];
-    const nthwordB = b[n];
-    if (nthWordA !== nthwordB) {
-      return (nthWordA > nthwordB) - (nthWordA < nthwordB);
-    } else {
+  const tmp = [...strings];
+
+  const compareNthChar = (a, b) => {
+    const nthCharA = a[n];
+    const nthCharB = b[n];
+
+    if (nthCharA === nthCharB) {
       return (a > b) - (a < b);
     }
-  });
+
+    return (nthCharA > nthCharB) - (nthCharA < nthCharB);
+  };
+
+  return tmp.sort(compareNthChar);
 }
