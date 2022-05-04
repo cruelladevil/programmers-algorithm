@@ -1,6 +1,7 @@
 function solution(arr, divisor) {
-  const answer = arr
-    .filter(number => number % divisor === 0)
+  const multipleList = arr
+    .filter((number) => number % divisor === 0)
     .sort((a, b) => a - b);
-  return answer.length > 0 ? answer : [-1];
+
+  return multipleList.length > 0 ? multipleList : [-1];
 }
