@@ -103,10 +103,11 @@ N개의 최소공배수 | [📄](https://github.com/cruelladevil/programmers-alg
 
 ## LEVEL3
 
-**해결한 문제 수: 0**
+**해결한 문제 수: 1**
 
 제목 | 문제 | 코드 | 페이지
 :---|:---:|:---:|:---:
+베스트앨범 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level3/베스트앨범) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level3/베스트앨범/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/42579)
 
 ## LEVEL4
 
