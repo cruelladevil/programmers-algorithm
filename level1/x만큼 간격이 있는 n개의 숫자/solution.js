@@ -1,4 +1,3 @@
 function solution(x, n) {
-  const fillWithXArray = new Array(n).fill(x);
-  return fillWithXArray.map((num, index) => num += x * index);
+  return Array.from({ length: n }, (_, i) => x * (i + 1));
 }
