@@ -77,7 +77,7 @@ x만큼 간격이 있는 n개의 숫자 | [📄](https://github.com/cruelladevil
 
 ## LEVEL2
 
-**해결한 문제 수: 20**
+**해결한 문제 수: 21**
 
 제목 | 문제 | 코드 | 페이지
 :---|:---:|:---:|:---:
@@ -93,6 +93,7 @@ k진수에서 소수 개수 구하기 | [📄](https://github.com/cruelladevil/p
 문자열 압축 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/문자열%20압축) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/문자열%20압축/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/60057)
 숫자의 표현 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/숫자의%20표현) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/숫자의%20표현/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12924)
 오픈채팅방 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/오픈채팅방) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/오픈채팅방/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/42888)
+주차 요금 계산 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/주차%20요금%20계산) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/주차%20요금%20계산/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/92341)
 짝지어 제거하기 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/짝지어%20제거하기) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/짝지어%20제거하기/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12973)
 최댓값과 최솟값 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/최댓값과%20최솟값) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/최댓값과%20최솟값/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/12939)
 카펫 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level2/카펫) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level2/카펫/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/42842)
