@@ -106,12 +106,13 @@ k진수에서 소수 개수 구하기 | [📄](https://github.com/cruelladevil/p
 
 ## LEVEL3
 
-**해결한 문제 수: 2**
+**해결한 문제 수: 3**
 
 제목 | 문제 | 코드 | 페이지
 :---|:---:|:---:|:---:
 네트워크 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level3/네트워크) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level3/네트워크/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/43162)
 베스트앨범 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level3/베스트앨범) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level3/베스트앨범/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/42579)
+여행경로 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level3/여행경로) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level3/여행경로/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/43164)
 
 ## LEVEL4
 
