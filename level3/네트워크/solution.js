@@ -4,6 +4,8 @@ function solution(n, computers) {
   let count = 0;
 
   const dfs = (i) => {
+    if (visited[i]) return;
+
     visited[i] = true;
 
     for (let j = 0; j < computers[i].length; j += 1) {
