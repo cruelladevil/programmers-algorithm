@@ -2,10 +2,13 @@ function solution(sizes) {
   let maxWidth = 0;
   let maxHeight = 0;
 
-  sizes.forEach(([width, height]) => {
-    if (height > width) [width, height] = [height, width];
-    if (width > maxWidth) maxWidth = width;
-    if (height > maxHeight) maxHeight = height;
+  sizes.forEach((size) => {
+    let [w, h] = size;
+
+    if (h > w) [w, h] = [h, w];
+    if (w > maxWidth) maxWidth = w;
+    if (h > maxHeight) maxHeight = h;
   });
+
   return maxWidth * maxHeight;
 }
