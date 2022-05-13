@@ -1,4 +1,5 @@
-# 큰 수 만들기[🏷️](https://programmers.co.kr/learn/courses/30/lessons/42883)
+# 큰 수 만들기
+> 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/courses/30/lessons/42883
 
 ### 문제 설명
 어떤 숫자에서 k개의 수를 제거했을 때 얻을 수 있는 가장 큰 숫자를 구하려 합니다.

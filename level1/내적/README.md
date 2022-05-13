@@ -1,4 +1,5 @@
-# 내적[🏷️](https://programmers.co.kr/learn/courses/30/lessons/70128)
+# 내적
+> 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/courses/30/lessons/70128
 
 ### 문제 설명
 길이가 같은 두 1차원 정수 배열 a, b가 매개변수로 주어집니다.  

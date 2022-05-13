@@ -1,4 +1,5 @@
-# 직사각형 별찍기[🏷️](https://programmers.co.kr/learn/courses/30/lessons/12969)
+# 직사각형 별찍기
+> 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/courses/30/lessons/12969
 
 ### 문제 설명
 이 문제에는 표준 입력으로 두 개의 정수 n과 m이 주어집니다.  

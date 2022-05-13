@@ -1,4 +1,5 @@
-# 숫자 문자열과 영단어[🏷️](https://programmers.co.kr/learn/courses/30/lessons/81301)
+# 숫자 문자열과 영단어
+> 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/courses/30/lessons/81301
 
 ### 문제 설명
 ![image](https://grepp-programmers.s3.ap-northeast-2.amazonaws.com/files/production/d31cb063-4025-4412-8cbc-6ac6909cf93e/img1.png)

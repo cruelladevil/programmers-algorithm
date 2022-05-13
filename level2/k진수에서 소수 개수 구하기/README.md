@@ -1,4 +1,5 @@
-# k진수에서 소수 개수 구하기[🏷️](https://programmers.co.kr/learn/courses/30/lessons/92335)
+# k진수에서 소수 개수 구하기
+> 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/courses/30/lessons/92335
 
 ### 문제 설명
 양의 정수 `n`이 주어집니다. 이 숫자를 `k`진수로 바꿨을 때, 변환된 수 안에 아래 조건에 맞는 소수(Prime number)가 몇 개인지 알아보려 합니다.

@@ -1,4 +1,5 @@
-# 주차 요금 계산[🏷️](https://programmers.co.kr/learn/courses/30/lessons/92341)
+# 주차 요금 계산
+> 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/courses/30/lessons/92341
 
 ### 문제 설명
 주차장의 요금표와 차량이 들어오고(입차) 나간(출차) 기록이 주어졌을 때, 차량별로 주차 요금을 계산하려고 합니다. 아래는 하나의 예시를 나타냅니다.

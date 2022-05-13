@@ -1,4 +1,5 @@
-# 피보나치 수[🏷️](https://programmers.co.kr/learn/courses/30/lessons/12945)
+# 피보나치 수
+> 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/courses/30/lessons/12945
 
 ### 문제 설명
 피보나치 수는 F(0) = 0, F(1) = 1일 때, 1 이상의 n에 대하여 F(n) = F(n-1) + F(n-2) 가 적용되는 수 입니다.

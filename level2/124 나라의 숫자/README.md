@@ -1,4 +1,5 @@
-# 124 나라의 숫자[🏷️](https://programmers.co.kr/learn/courses/30/lessons/12899)
+# 124 나라의 숫자
+> 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/courses/30/lessons/12899
 
 ### 문제 설명
 124 나라가 있습니다. 124 나라에서는 10진법이 아닌 다음과 같은 자신들만의 규칙으로 수를 표현합니다.

@@ -1,4 +1,5 @@
-# 폰켓몬[🏷️](https://programmers.co.kr/learn/courses/30/lessons/1845)
+# 폰켓몬
+> 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/courses/30/lessons/1845
 
 ### 문제 설명
 당신은 폰켓몬을 잡기 위한 오랜 여행 끝에, 홍 박사님의 연구실에 도착했습니다. 홍 박사님은 당신에게 자신의 연구실에 있는 총 N 마리의 폰켓몬 중에서 N/2마리를 가져가도 좋다고 했습니다.  

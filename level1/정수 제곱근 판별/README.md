@@ -1,4 +1,5 @@
-# 정수 제곱근 판별[🏷️](https://programmers.co.kr/learn/courses/30/lessons/12934)
+# 정수 제곱근 판별
+> 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/courses/30/lessons/12934
 
 ### 문제 설명
 임의의 양의 정수 n에 대해, n이 어떤 양의 정수 x의 제곱인지 아닌지 판단하려 합니다.  

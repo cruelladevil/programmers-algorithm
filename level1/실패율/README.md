@@ -1,4 +1,5 @@
-# 실패율[🏷️](https://programmers.co.kr/learn/courses/30/lessons/42889)
+# 실패율
+> 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/courses/30/lessons/42889
 
 ### 문제 설명
 ![image](https://grepp-programmers.s3.amazonaws.com/files/production/bde471d8ac/48ddf1cc-c4ea-499d-b431-9727ee799191.png)

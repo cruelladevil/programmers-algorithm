@@ -1,4 +1,5 @@
-# 다트 게임[🏷️](https://programmers.co.kr/learn/courses/30/lessons/17682)
+# 다트 게임
+> 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/courses/30/lessons/17682
 
 ### 문제 설명
 카카오톡에 뜬 네 번째 별! 심심할 땐? 카카오톡 게임별~

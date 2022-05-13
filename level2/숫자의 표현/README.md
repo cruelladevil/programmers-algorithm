@@ -1,4 +1,5 @@
-# 숫자의 표현[🏷️](https://programmers.co.kr/learn/courses/30/lessons/12924)
+# 숫자의 표현
+> 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/courses/30/lessons/12924
 
 ### 문제 설명
 Finn은 요즘 수학공부에 빠져 있습니다. 수학 공부를 하던 Finn은 자연수 n을 연속한 자연수들로 표현 하는 방법이 여러개라는 사실을 알게 되었습니다. 예를들어 15는 다음과 같이 4가지로 표현 할 수 있습니다.
