@@ -1,7 +1,10 @@
 function solution(a, b) {
-  let sum = 0;
-  for (let i = 0; i < a.length; i++) {
-    sum += a[i] * b[i];
-  }
-  return sum;
+  const innerProduct = a.reduce((sum, aValue, i) => {
+    const bValue = b[i];
+    const currentValue = aValue * bValue;
+
+    return sum + currentValue;
+  }, 0);
+
+  return innerProduct;
 }
