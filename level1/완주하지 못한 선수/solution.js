@@ -1,14 +1,17 @@
 function solution(participant, completion) {
   const onRunning = {};
 
-  participant.forEach(runner => {
-    onRunning[runner] = onRunning[runner] ? onRunning[runner] + 1 : 1;
-  });
-  completion.forEach(runner => {
-    onRunning[runner] = onRunning[runner] - 1;
+  participant.forEach((runner) => {
+    if (!onRunning[runner]) onRunning[runner] = 0;
+    onRunning[runner] += 1;
   });
 
-  for (const runner in onRunning) {
-    if (onRunning[runner] === 1) return runner;
-  }
+  completion.forEach((runner) => {
+    onRunning[runner] -= 1;
+  });
+
+  const notFinishedList = Object.entries(onRunning).filter(([, value]) => value > 0);
+  const theOnlyOneNotFinished = notFinishedList.map(([key]) => key).find(String);
+
+  return theOnlyOneNotFinished;
 }
