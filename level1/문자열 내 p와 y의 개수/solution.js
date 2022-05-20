@@ -1,6 +1,13 @@
 function solution(s) {
-  const lowerCaseSplittedArray = s.toLowerCase().split('');
-  const pCaseCount = lowerCaseSplittedArray.filter(letter => letter === 'p').length;
-  const yCaseCount = lowerCaseSplittedArray.filter(letter => letter === 'y').length;
-  return pCaseCount === yCaseCount;
+  let pCount = 0;
+  let yCount = 0;
+
+  const split = s.toLowerCase().split('');
+
+  split.forEach((item) => {
+    if (item === 'p') pCount += 1;
+    if (item === 'y') yCount += 1;
+  });
+
+  return pCount === yCount;
 }
