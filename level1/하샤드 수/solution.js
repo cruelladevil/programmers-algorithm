@@ -1,8 +1,8 @@
 function solution(x) {
-  const string = x.toString;
+  const string = x.toString();
   let digitSum = 0;
 
-  for (let i = 0; i < x.length; i += 1) {
+  for (let i = 0; i < string.length; i += 1) {
     digitSum += Number(string[i]);
   }
 
