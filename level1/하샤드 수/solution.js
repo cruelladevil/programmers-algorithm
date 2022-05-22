@@ -1,8 +1,12 @@
 function solution(x) {
-  const digitSum = x
-    .toString()
-    .split('')
-    .reduce((acc, cur) => acc + parseInt(cur), 0);
+  const string = x.toString;
+  let digitSum = 0;
+
+  for (let i = 0; i < x.length; i += 1) {
+    digitSum += Number(string[i]);
+  }
+
   const isHarshadNumber = x % digitSum === 0;
+
   return isHarshadNumber;
 }
