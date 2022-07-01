@@ -118,10 +118,11 @@ k진수에서 소수 개수 구하기 | [📄](https://github.com/cruelladevil/p
 
 ## LEVEL4
 
-**해결한 문제 수: 0**
+**해결한 문제 수: 1**
 
 제목 | 문제 | 코드 | 페이지
 :---|:---:|:---:|:---:
+징검다리 | [📄](https://github.com/cruelladevil/programmers-algorithm/tree/main/level4/징검다리) | [✔️](https://github.com/cruelladevil/programmers-algorithm/blob/main/level4/징검다리/solution.js) | [🏷️](https://programmers.co.kr/learn/courses/30/lessons/43236)
 
 ## LEVEL5
 
