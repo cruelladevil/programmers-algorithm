@@ -1,7 +1,10 @@
 function solution(n) {
   const ternary = n.toString(3);
-  const reverse = ternary.split('').reverse().join('');
-  const decimal = parseInt(reverse, 3);
+  let reverse = '';
 
-  return decimal;
+  for (let i = 0; i < ternary.length; i += 1) {
+    reverse = ternary.charAt(i) + reverse;
+  }
+
+  return parseInt(reverse, 3);
 }

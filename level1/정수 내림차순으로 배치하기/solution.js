@@ -1,8 +1,9 @@
 function solution(n) {
-  const descendingOrderString = n
+  const descendingOrder = n
     .toString()
     .split('')
-    .sort((a, b) => b - a)
+    .sort((a, b) => Number(b) - Number(a))
     .join('');
-  return parseInt(descendingOrderString);
+
+  return Number(descendingOrder);
 }

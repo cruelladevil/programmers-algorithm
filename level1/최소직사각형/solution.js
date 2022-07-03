@@ -3,11 +3,14 @@ function solution(sizes) {
   let maxHeight = 0;
 
   sizes.forEach((size) => {
-    let [w, h] = size;
+    let [width, height] = size;
 
-    if (h > w) [w, h] = [h, w];
-    if (w > maxWidth) maxWidth = w;
-    if (h > maxHeight) maxHeight = h;
+    if (width < height) {
+      [width, height] = [height, width];
+    }
+
+    maxWidth = Math.max(maxWidth, width);
+    maxHeight = Math.max(maxHeight, height);
   });
 
   return maxWidth * maxHeight;

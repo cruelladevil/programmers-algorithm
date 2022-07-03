@@ -1,38 +1,30 @@
 function solution(dartResult) {
-  const dartList = dartResult.match(/\d.?\D/g);
-  const scoreList = [];
+  const scoreList = dartResult.match(/\d+/g).map(Number);
+  const bonusOptionList = dartResult.match(/[SDT][*#]?/g);
 
-  const getScoreBonus = (score, bonus) => {
+  bonusOptionList.forEach((item, i) => {
+    const [bonus, option] = item.split('');
+
     switch (bonus) {
       case 'S':
-        return score;
+        break;
       case 'D':
-        return score ** 2;
+        scoreList[i] **= 2;
+        break;
       case 'T':
-        return score ** 3;
-      default:
-        return score;
+        scoreList[i] **= 3;
+        break;
     }
-  };
 
-  const getScoreOption = (score, option, i) => {
     switch (option) {
       case '*':
+        scoreList[i] *= 2;
         if (scoreList[i - 1]) scoreList[i - 1] *= 2;
-        return score * 2;
+        break;
       case '#':
-        return score * -1;
-      default:
-        return score;
+        scoreList[i] *= -1;
+        break;
     }
-  };
-
-  dartList.forEach((dart, i) => {
-    const [number, bonus, option] = dart.split(/([SDT])/);
-    let score = Number(number);
-    score = getScoreBonus(score, bonus);
-    score = getScoreOption(score, option, i);
-    scoreList.push(score);
   });
 
   return scoreList.reduce((total, score) => total + score);

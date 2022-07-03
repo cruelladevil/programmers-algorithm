@@ -1,11 +1,24 @@
 function solution(new_id) {
-  let string = new_id;
-  string = string.toLowerCase();
-  string = string.replace(/[^a-z0-9-_.]/g, '');
-  string = string.replace(/\.+/g, '.');
-  string = string.replace(/^\.|\.$/g, '');
-  if (string === '') string = 'a';
-  if (string.length >= 16) string = string.slice(0, 15).replace(/\.$/g, '');
-  while (2 >= string.length) string = string + string.slice(-1);
-  return string;
+  let recommand = new_id;
+  // 1단계
+  recommand = recommand.toLowerCase();
+  // 2단계
+  recommand = recommand.replace(/[^a-z0-9-_.]/g, '');
+  // 3단계
+  recommand = recommand.replace(/\.{2,}/g, '.');
+  // 4단계
+  recommand = recommand.replace(/^\.|\.$/g, '');
+  // 5단계
+  if (recommand === '') recommand = 'a';
+  // 6단계
+  if (recommand.length >= 16) {
+    recommand = recommand.slice(0, 15);
+    recommand = recommand.replace(/\.$/, '');
+  }
+  // 7단계
+  while (recommand.length < 3) {
+    recommand += recommand.slice(-1);
+  }
+
+  return recommand;
 }

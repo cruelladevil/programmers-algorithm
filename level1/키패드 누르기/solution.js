@@ -1,42 +1,58 @@
 function solution(numbers, hand) {
+  const STAR = 10;
+  const HASH = 12;
+
+  let left = STAR;
+  let right = HASH;
   let result = '';
-  let left = 10;
-  let right = 12;
-  let number;
 
-  const handleClickNumber = clickHand => {
+  const click = (clickHand, number) => {
+    if (clickHand === 'L') {
+      left = number;
+    } else {
+      right = number;
+    }
+
     result += clickHand;
-    if (clickHand === 'L') left = number;
-    else right = number;
   };
+
   const getDistance = (a, b) => {
-    const x = num => (num - 1) % 3;
-    const y = num => Math.floor((num - 1) / 3);
-    const distanceX = Math.abs(x(a) - x(b));
-    const distanceY = Math.abs(y(a) - y(b));
-    return distanceX + distanceY;
+    const getRow = (number) => Math.floor((number - 1) / 3);
+    const getCol = (number) => (number - 1) % 3;
+    const rowDistance = Math.abs(getRow(a) - getRow(b));
+    const colDistance = Math.abs(getCol(a) - getCol(b));
+
+    return rowDistance + colDistance;
   };
 
-  for (let i = 0; i < numbers.length; i++) {
-    number = numbers[i] || 11;
+  numbers.forEach((number) => {
+    const target = number !== 0 ? number : 11;
 
-    switch (number % 3) {
+    switch (target % 3) {
       case 1:
-        handleClickNumber('L');
+        click('L', target);
         break;
       case 0:
-        handleClickNumber('R');
+        click('R', target);
         break;
-      case 2:
-        const distanceLeft = getDistance(number, left);
-        const distanceRight = getDistance(number, right);
+      case 2: {
+        const leftDistance = getDistance(left, target);
+        const rightDistance = getDistance(right, target);
 
-        if (distanceLeft === distanceRight) {
-          hand === 'left' ? handleClickNumber('L') : handleClickNumber('R');
+        if (leftDistance === rightDistance) {
+          if (hand === 'left') {
+            click('L', target);
+          } else {
+            click('R', target);
+          }
+        } else if (leftDistance < rightDistance) {
+          click('L', target);
         } else {
-          distanceLeft < distanceRight ? handleClickNumber('L') : handleClickNumber('R');
+          click('R', target);
         }
+      }
     }
-  }
+  });
+
   return result;
 }

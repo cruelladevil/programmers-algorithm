@@ -1,5 +1,13 @@
 function solution(s) {
-  const isLength4or6 = s.length === 4 || s.length === 6;
-  const isAllNumber = s.split('').every((element) => element > -Infinity);
-  return isLength4or6 && isAllNumber;
+  const { length } = s;
+
+  if (length !== 4 && length !== 6) return false;
+
+  for (let i = 0; i < length; i += 1) {
+    const char = s.charAt(i);
+    const number = Number(char);
+    if (Number.isNaN(number)) return false;
+  }
+
+  return true;
 }

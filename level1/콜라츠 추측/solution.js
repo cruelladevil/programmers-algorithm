@@ -1,8 +1,18 @@
 function solution(n) {
+  if (n === 1) return 0;
+
   let roop;
-  for (roop = 0; roop < 500; roop++) {
-    if (n === 1) break;
-    n = (n % 2 === 0) ? (n / 2) : (n * 3 + 1);
+  let num = n;
+
+  for (roop = 1; roop <= 500; roop += 1) {
+    if (num % 2 === 0) {
+      num /= 2;
+    } else {
+      num = num * 3 + 1;
+    }
+
+    if (num === 1) return roop;
   }
-  return (n === 1) ? roop : -1;
+
+  return -1;
 }

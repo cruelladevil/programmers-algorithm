@@ -3,5 +3,7 @@ function solution(arr, divisor) {
     .filter((number) => number % divisor === 0)
     .sort((a, b) => a - b);
 
-  return multipleList.length > 0 ? multipleList : [-1];
+  if (multipleList.length === 0) return [-1];
+
+  return multipleList;
 }

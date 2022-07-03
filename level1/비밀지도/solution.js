@@ -1,18 +1,36 @@
 function solution(n, arr1, arr2) {
-  const wallStringList = [];
-  const binary1 = arr1.map(num => num.toString(2).padStart(n, '0'));
-  const binary2 = arr2.map(num => num.toString(2).padStart(n, '0'));
+  const EMPTY_NUMCHAR = '0';
+  const WALL_NUMCHAR = '1';
+  const EMPTY_CHAR = ' ';
+  const WALL_CHAR = '#';
 
-  for (let i = 0; i < binary1.length; i++) {
-    let wallString = '';
-    const item1 = binary1[i];
-    const item2 = binary2[i];
+  const getMergedWallString = (binaryString1, binaryString2) => {
+    let merged = '';
 
-    for (let j = 0; j < item1.length; j++) {
-      if (item1[j] === '0' && item2[j] === '0') wallString += ' ';
-      else wallString += '#';
+    for (let i = 0; i < n; i += 1) {
+      const char1 = binaryString1.charAt(i);
+      const char2 = binaryString2.charAt(i);
+
+      if (char1 === EMPTY_NUMCHAR && char2 === EMPTY_NUMCHAR) {
+        merged += EMPTY_CHAR;
+      } else {
+        merged += WALL_CHAR;
+      }
     }
-    wallStringList.push(wallString);
-  }
-  return wallStringList;
+
+    return merged;
+  };
+
+  const secretMap = arr1.map((number, i) => {
+    const row1 = getBinaryString(number, n);
+    const row2 = getBinaryString(arr2[i], n);
+
+    return getMergedWallString(row1, row2);
+  });
+
+  return secretMap;
+}
+
+function getBinaryString(number, length) {
+  return number.toString(2).padStart(length, '0');
 }

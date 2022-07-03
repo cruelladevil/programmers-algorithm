@@ -1,5 +1,5 @@
-function solution(array) {
-  const location = array.indexOf('Kim');
+function solution(seoul) {
+  const index = seoul.indexOf('Kim');
 
-  return `김서방은 ${location}에 있다`;
+  return `김서방은 ${index}에 있다`;
 }

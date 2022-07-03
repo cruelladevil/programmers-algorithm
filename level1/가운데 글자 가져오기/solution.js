@@ -1,8 +1,7 @@
 function solution(s) {
-  const { length } = s;
-  const oddCase = s.slice((length - 1) / 2, (length + 1) / 2);
-  const evenCase = s.slice((length - 2) / 2, (length + 2) / 2);
-  const middleLetter = length % 2 === 0 ? evenCase : oddCase;
+  const middle = Math.floor(s.length / 2);
 
-  return middleLetter;
+  if (s.length % 2 === 0) return s.slice(middle - 1, middle + 1);
+
+  return s.charAt(middle);
 }

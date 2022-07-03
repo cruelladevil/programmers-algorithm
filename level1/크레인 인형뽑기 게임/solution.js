@@ -1,25 +1,32 @@
 function solution(board, moves) {
+  const EMPTY = 0;
+
   const stack = [];
-  let count = 0;
+  let deleteCount = 0;
 
-  moves.forEach(move => {
-    const pickIndex = move - 1;
-    let pickedDoll = null;
+  moves.forEach((move) => {
+    const col = move - 1;
+    let picked = EMPTY;
 
-    for (let rowIndex = 0; rowIndex < board.length; rowIndex++) {
-      const element = board[rowIndex][pickIndex];
-      if (element !== 0) {
-        pickedDoll = element;
-        board[rowIndex][pickIndex] = 0;
+    for (let row = 0; row < board.length; row += 1) {
+      const item = board[row][col];
+
+      if (item !== EMPTY) {
+        picked = item;
+        board[row][col] = EMPTY;
         break;
       }
     }
-    if (stack[stack.length - 1] === pickedDoll) {
-      stack.pop();
-      count += 2;
-    } else if (pickedDoll) {
-      stack.push(pickedDoll);
+
+    if (picked !== EMPTY) {
+      if (picked === stack[stack.length - 1]) {
+        stack.pop();
+        deleteCount += 2;
+      } else {
+        stack.push(picked);
+      }
     }
   });
-  return count;
+
+  return deleteCount;
 }

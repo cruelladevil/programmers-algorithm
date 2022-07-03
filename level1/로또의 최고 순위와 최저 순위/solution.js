@@ -1,12 +1,15 @@
 function solution(lottos, win_nums) {
-  const minCount = lottos.filter((number) => number !== 0 && win_nums.includes(number)).length;
-  const maxCount = minCount + lottos.filter((number) => number === 0).length;
+  const winNumsSet = new Set(win_nums);
 
-  const getGrade = (count) => {
-    const grade = 7 - count;
+  const unknownCount = lottos.filter((number) => number === 0).length;
+  const minMatch = lottos.filter((number) => winNumsSet.has(number)).length;
+  const maxMatch = minMatch + unknownCount;
 
-    return count > 1 ? grade : 6;
+  const getGrade = (match) => {
+    if (match < 2) return 6;
+
+    return 7 - match;
   };
 
-  return [getGrade(maxCount), getGrade(minCount)];
+  return [getGrade(maxMatch), getGrade(minMatch)];
 }

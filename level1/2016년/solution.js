@@ -1,6 +1,14 @@
 function solution(a, b) {
-  const dayList = ['SUN', 'MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT'];
-  const date = new Date(2016, a - 1, b);
+  const lastDateList = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+  const dayList = ['FRI', 'SAT', 'SUN', 'MON', 'TUE', 'WED', 'THU'];
 
-  return dayList[date.getDay()];
+  let date = 0;
+
+  for (let i = 0; i < a - 1; i += 1) {
+    date += lastDateList[i];
+  }
+
+  date += b;
+
+  return dayList[(date - 1) % 7];
 }

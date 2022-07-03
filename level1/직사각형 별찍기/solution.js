@@ -1,9 +1,15 @@
 process.stdin.setEncoding('utf8');
-process.stdin.on('data', data => {
-  const [n, m] = data.split(' ').map(Number);
-  const starString = '*'.repeat(n);
+process.stdin.on('data', (data) => {
+  const [col, row] = data.split(' ');
 
-  for (let i = 1; i <= m; i++) {
-    console.log(starString);
+  let starGrid = '';
+
+  for (let i = 0; i < row; i += 1) {
+    for (let j = 0; j < col; j += 1) {
+      starGrid += '*';
+    }
+    starGrid += '\n';
   }
+
+  console.log(starGrid);
 });

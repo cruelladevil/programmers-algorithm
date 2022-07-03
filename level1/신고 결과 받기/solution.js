@@ -1,16 +1,27 @@
 function solution(id_list, report, k) {
-  const result = new Array(id_list.length).fill(0);
-  const reportObj = {};
-  id_list.forEach((id) => reportObj[id] = new Set());
-  report.forEach((element) => {
-    const [userId, reportId] = element.split(" ");
-    reportObj[reportId].add(userId);
+  const reportMap = {};
+
+  report.forEach((item) => {
+    const [userId, reportId] = item.split(' ');
+
+    if (!reportMap[reportId]) reportMap[reportId] = new Set();
+
+    reportMap[reportId].add(userId);
   });
-  for (const reportId in reportObj) {
-    const reportSet = reportObj[reportId];
-    if (reportSet.size >= k) {
-      reportSet.forEach((userId) => result[id_list.indexOf(userId)] += 1);
+
+  const mailCountMap = {};
+
+  id_list.forEach((id) => {
+    mailCountMap[id] = 0;
+  });
+
+  Object.values(reportMap).forEach((userSet) => {
+    if (userSet.size >= k) {
+      userSet.forEach((userId) => {
+        mailCountMap[userId] += 1;
+      });
     }
-  }
-  return result;
+  });
+
+  return Object.values(mailCountMap);
 }

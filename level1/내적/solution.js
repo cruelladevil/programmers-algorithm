@@ -1,10 +1,9 @@
 function solution(a, b) {
-  const innerProduct = a.reduce((sum, aValue, i) => {
+  const dotProduct = a.reduce((sum, aValue, i) => {
     const bValue = b[i];
-    const currentValue = aValue * bValue;
 
-    return sum + currentValue;
+    return sum + aValue * bValue;
   }, 0);
 
-  return innerProduct;
+  return dotProduct;
 }

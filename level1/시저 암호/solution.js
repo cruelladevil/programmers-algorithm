@@ -1,18 +1,31 @@
 function solution(s, n) {
-  const lowerCase = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
-  const upperCase = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'];
-  
-  const letterList = s.split('');
-  const caesarList = letterList.map(letter => {
-    if (letter === ' ') return ' ';
+  const LOWER_CODE_START = 97;
+  const UPPER_CODE_START = 65;
+  const CODE_LENGTH = 26;
 
-    const caesarIndex = (lowerCase.indexOf(letter.toLowerCase()) + n) % 26;
-    switch (letter) {
-      case letter.toLowerCase():
-        return lowerCase[caesarIndex];
-      case letter.toUpperCase():
-        return upperCase[caesarIndex];
+  let caesarString = '';
+
+  for (let i = 0; i < s.length; i += 1) {
+    const char = s.charAt(i);
+
+    switch (char) {
+      case ' ':
+        caesarString += ' ';
+        break;
+      case char.toLowerCase(): {
+        const charCode = char.charCodeAt();
+        const newCharCode = ((charCode + n - LOWER_CODE_START) % CODE_LENGTH) + LOWER_CODE_START;
+        caesarString += String.fromCharCode(newCharCode);
+        break;
+      }
+      case char.toUpperCase(): {
+        const charCode = char.charCodeAt();
+        const newCharCode = ((charCode + n - UPPER_CODE_START) % CODE_LENGTH) + UPPER_CODE_START;
+        caesarString += String.fromCharCode(newCharCode);
+        break;
+      }
     }
-  });
-  return caesarList.join('');
+  }
+
+  return caesarString;
 }

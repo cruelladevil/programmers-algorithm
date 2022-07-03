@@ -1,12 +1,11 @@
 function solution(x) {
-  const string = x.toString();
-  let digitSum = 0;
+  const numString = String(x);
 
-  for (let i = 0; i < string.length; i += 1) {
-    digitSum += Number(string[i]);
+  let sum = 0;
+
+  for (let i = 0; i < numString.length; i += 1) {
+    sum += Number(numString.charAt(i));
   }
 
-  const isHarshadNumber = x % digitSum === 0;
-
-  return isHarshadNumber;
+  return x % sum === 0;
 }

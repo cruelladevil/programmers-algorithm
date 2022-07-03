@@ -1,16 +1,12 @@
 function solution(strings, n) {
-  const tmp = [...strings];
+  strings.sort((a, b) => {
+    const nthCharA = a.charAt(n);
+    const nthCharB = b.charAt(n);
 
-  const compareNthChar = (a, b) => {
-    const nthCharA = a[n];
-    const nthCharB = b[n];
+    if (nthCharA.localeCompare(nthCharB) === 0) return a.localeCompare(b);
 
-    if (nthCharA === nthCharB) {
-      return (a > b) - (a < b);
-    }
+    return nthCharA.localeCompare(nthCharB);
+  });
 
-    return (nthCharA > nthCharB) - (nthCharA < nthCharB);
-  };
-
-  return tmp.sort(compareNthChar);
+  return strings;
 }

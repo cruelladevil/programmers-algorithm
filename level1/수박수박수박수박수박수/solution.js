@@ -1,5 +1,8 @@
 function solution(n) {
-  const isOdd = n % 2 === 1;
+  const isEven = n % 2 === 0;
+  const waterMelon = '수박'.repeat(n / 2);
 
-  return '수박'.repeat(n / 2) + (isOdd ? '수' : '');
+  if (!isEven) return `${waterMelon}수`;
+
+  return waterMelon;
 }
